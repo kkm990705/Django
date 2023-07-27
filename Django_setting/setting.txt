@@ -1,0 +1,7 @@
+## 먼저 가상환경을 만들고 하는걸 추천
+# 장고 개발 환경 조성 하기(터미널에서 해야합니다)
+
+django-admin startproject 프로젝트이름. #.(dot)을 붙여야 이 경로에 설치한다는 뜻이 됩니다
+# 이러면 폴더와 django에 필요한 파일들이 지정했던 경로에 생성됩니다
+
+python manage.py runserver # 서버 구동
