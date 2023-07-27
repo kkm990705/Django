@@ -6,4 +6,9 @@ pip install django
 django-admin startproject 프로젝트이름. #.(dot)을 붙여야 이 경로에 설치한다는 뜻이 됩니다
 # 이러면 폴더와 django에 필요한 파일들이 지정했던 경로에 생성됩니다
 
+#
+#
+
 python manage.py runserver # 서버 구동
+
+
